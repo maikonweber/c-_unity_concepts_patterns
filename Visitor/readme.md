@@ -1,0 +1,3 @@
+Ao utilizar o padrão Visitor, você pode adicionar facilmente novos comportamentos ou operações às classes de elementos existentes sem modificar essas classes. Você só precisa criar um novo visitante que implementa a interface IVisitor e define os métodos de visita para os elementos específicos.
+
+O padrão Visitor é útil quando você tem uma estrutura complexa de objetos com comportamentos variados e deseja adicionar novas operações ou comportamentos sem alterar as classes existentes. Ele promove o princípio de aberto/fechado (Open/Closed Principle) ao permitir a extensão sem modificação e preserva a coesão entre

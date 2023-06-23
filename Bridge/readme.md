@@ -1,0 +1,3 @@
+Ao utilizar o padrão Bridge, você pode variar independentemente a abstração e a implementação, permitindo que elas evoluam separadamente. Você pode adicionar novas classes de implementação ou abstração sem afetar as classes existentes. Isso promove o princípio de desacoplamento, flexibilidade e extensibilidade do código.
+
+O padrão Bridge é útil quando você tem uma hierarquia de classes com múltiplas dimensões de variação, evitando o crescimento exponencial da quantidade de classes resultante dessa variação. Ele permite que as partes da hierarquia variem independentemente umas das outras, facilitando a manutenção e a expansão do código.

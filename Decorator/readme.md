@@ -1,0 +1,1 @@
+O padrão de design Decorator é um padrão estrutural que permite adicionar comportamento adicional a um objeto dinamicamente. Ele permite estender as funcionalidades de um objeto sem alterar sua estrutura subjacente. No contexto do Unity, o padrão Decorator pode ser aplicado de várias maneiras. Aqui estão alguns exemplos de uso do padrão Decorator no Unity:
